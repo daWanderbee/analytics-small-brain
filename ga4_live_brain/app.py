@@ -41,14 +41,15 @@ def get_client():
         token_path = os.path.join(os.path.dirname(__file__), "..", "ga4_token.json")
         with open(token_path) as f:
             t = json.load(f)
+    # Always start with empty token — force refresh using refresh_token
     creds = Credentials(
-        token=t["token"], refresh_token=t["refresh_token"],
-        token_uri=t["token_uri"], client_id=t["client_id"], client_secret=t["client_secret"]
+        token=None,
+        refresh_token=t["refresh_token"],
+        token_uri=t["token_uri"],
+        client_id=t["client_id"],
+        client_secret=t["client_secret"]
     )
-    try:
-        creds.refresh(Request())
-    except Exception:
-        pass
+    creds.refresh(Request())
     return BetaAnalyticsDataClient(credentials=creds)
 
 # ── DATA ──────────────────────────────────────────────────────────────
