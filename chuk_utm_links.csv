@@ -1,0 +1,45 @@
+Label,Full UTM URL,Source,Medium,Campaign,Content
+WhatsApp | Homepage,https://chuk.in/?utm_source=whatsapp&utm_medium=chat&utm_campaign=broadcast&utm_content=homepage,whatsapp,chat,broadcast,homepage
+WhatsApp | Products,https://chuk.in/products/?utm_source=whatsapp&utm_medium=chat&utm_campaign=broadcast&utm_content=products,whatsapp,chat,broadcast,products
+WhatsApp | Buy Sample Box,https://chuk.in/buy-sample-boxes/?utm_source=whatsapp&utm_medium=chat&utm_campaign=broadcast&utm_content=sample-box,whatsapp,chat,broadcast,sample-box
+WhatsApp | Disposable Plates,https://chuk.in/products/disposable-plates/?utm_source=whatsapp&utm_medium=chat&utm_campaign=product-share&utm_content=plates,whatsapp,chat,product-share,plates
+WhatsApp | Meal Plates,https://chuk.in/products/disposable-meal-plates/?utm_source=whatsapp&utm_medium=chat&utm_campaign=product-share&utm_content=meal-plates,whatsapp,chat,product-share,meal-plates
+WhatsApp | Bowls,https://chuk.in/products/disposable-bowls/?utm_source=whatsapp&utm_medium=chat&utm_campaign=product-share&utm_content=bowls,whatsapp,chat,product-share,bowls
+WhatsApp | Delivery Containers,https://chuk.in/products/delivery-containers/?utm_source=whatsapp&utm_medium=chat&utm_campaign=product-share&utm_content=delivery-containers,whatsapp,chat,product-share,delivery-containers
+WhatsApp | Distributors,https://chuk.in/distributors-2/?utm_source=whatsapp&utm_medium=chat&utm_campaign=b2b-outreach&utm_content=distributors,whatsapp,chat,b2b-outreach,distributors
+Instagram | Bio Link → Homepage,https://chuk.in/?utm_source=instagram&utm_medium=social&utm_campaign=bio&utm_content=bio-link,instagram,social,bio,bio-link
+Instagram | Bio Link → Products,https://chuk.in/products/?utm_source=instagram&utm_medium=social&utm_campaign=bio&utm_content=products,instagram,social,bio,products
+Instagram | Bio Link → Sample Box,https://chuk.in/buy-sample-boxes/?utm_source=instagram&utm_medium=social&utm_campaign=bio&utm_content=sample-box,instagram,social,bio,sample-box
+Instagram | Story → Products,https://chuk.in/products/?utm_source=instagram&utm_medium=social&utm_campaign=story&utm_content=products,instagram,social,story,products
+Instagram | Story → Meal Plates,https://chuk.in/products/disposable-meal-plates/?utm_source=instagram&utm_medium=social&utm_campaign=story&utm_content=meal-plates,instagram,social,story,meal-plates
+Instagram | Reel → Homepage,https://chuk.in/?utm_source=instagram&utm_medium=social&utm_campaign=reel&utm_content=homepage,instagram,social,reel,homepage
+Instagram | Post → Distributors,https://chuk.in/distributors-2/?utm_source=instagram&utm_medium=social&utm_campaign=post&utm_content=distributors,instagram,social,post,distributors
+Facebook | Post → Homepage,https://chuk.in/?utm_source=facebook&utm_medium=social&utm_campaign=post&utm_content=homepage,facebook,social,post,homepage
+Facebook | Post → Products,https://chuk.in/products/?utm_source=facebook&utm_medium=social&utm_campaign=post&utm_content=products,facebook,social,post,products
+Facebook | Post → Sample Box,https://chuk.in/buy-sample-boxes/?utm_source=facebook&utm_medium=social&utm_campaign=post&utm_content=sample-box,facebook,social,post,sample-box
+Facebook | Ad → Homepage,https://chuk.in/?utm_source=facebook&utm_medium=paid-social&utm_campaign=awareness&utm_content=homepage,facebook,paid-social,awareness,homepage
+Facebook | Ad → Sample Box,https://chuk.in/buy-sample-boxes/?utm_source=facebook&utm_medium=paid-social&utm_campaign=conversion&utm_content=sample-box,facebook,paid-social,conversion,sample-box
+LinkedIn | Bio → Homepage,https://chuk.in/?utm_source=linkedin&utm_medium=social&utm_campaign=bio&utm_content=homepage,linkedin,social,bio,homepage
+LinkedIn | Post → Distributors,https://chuk.in/distributors-2/?utm_source=linkedin&utm_medium=social&utm_campaign=post&utm_content=distributors,linkedin,social,post,distributors
+LinkedIn | Post → Products,https://chuk.in/products/?utm_source=linkedin&utm_medium=social&utm_campaign=post&utm_content=products,linkedin,social,post,products
+LinkedIn | Post → About,https://chuk.in/about-us/?utm_source=linkedin&utm_medium=social&utm_campaign=post&utm_content=about,linkedin,social,post,about
+LinkedIn | B2B Outreach → Distributors,https://chuk.in/distributors-2/?utm_source=linkedin&utm_medium=social&utm_campaign=b2b-outreach&utm_content=distributors,linkedin,social,b2b-outreach,distributors
+Email | Newsletter → Homepage,https://chuk.in/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly-newsletter&utm_content=homepage,newsletter,email,monthly-newsletter,homepage
+Email | Newsletter → Products,https://chuk.in/products/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly-newsletter&utm_content=products,newsletter,email,monthly-newsletter,products
+Email | Newsletter → Sample Box,https://chuk.in/buy-sample-boxes/?utm_source=newsletter&utm_medium=email&utm_campaign=monthly-newsletter&utm_content=sample-box,newsletter,email,monthly-newsletter,sample-box
+Email | Promo → Meal Plates,https://chuk.in/products/disposable-meal-plates/?utm_source=newsletter&utm_medium=email&utm_campaign=promo&utm_content=meal-plates,newsletter,email,promo,meal-plates
+Email | Promo → Bowls,https://chuk.in/products/disposable-bowls/?utm_source=newsletter&utm_medium=email&utm_campaign=promo&utm_content=bowls,newsletter,email,promo,bowls
+Email | Transactional → Homepage,https://chuk.in/?utm_source=zoho-crm&utm_medium=email&utm_campaign=transactional&utm_content=homepage,zoho-crm,email,transactional,homepage
+Email | B2B Outreach → Distributors,https://chuk.in/distributors-2/?utm_source=zoho-crm&utm_medium=email&utm_campaign=b2b-outreach&utm_content=distributors,zoho-crm,email,b2b-outreach,distributors
+YouTube | Description → Homepage,https://chuk.in/?utm_source=youtube&utm_medium=video&utm_campaign=product-demo&utm_content=homepage,youtube,video,product-demo,homepage
+YouTube | Description → Products,https://chuk.in/products/?utm_source=youtube&utm_medium=video&utm_campaign=product-demo&utm_content=products,youtube,video,product-demo,products
+YouTube | Description → Sample Box,https://chuk.in/buy-sample-boxes/?utm_source=youtube&utm_medium=video&utm_campaign=product-demo&utm_content=sample-box,youtube,video,product-demo,sample-box
+YouTube | Description → Distributors,https://chuk.in/distributors-2/?utm_source=youtube&utm_medium=video&utm_campaign=b2b&utm_content=distributors,youtube,video,b2b,distributors
+Google Ads | Search → Homepage,https://chuk.in/?utm_source=google&utm_medium=cpc&utm_campaign=brand-search&utm_content=homepage,google,cpc,brand-search,homepage
+Google Ads | Search → Products,https://chuk.in/products/?utm_source=google&utm_medium=cpc&utm_campaign=product-search&utm_content=products,google,cpc,product-search,products
+Google Ads | Search → Sample Box,https://chuk.in/buy-sample-boxes/?utm_source=google&utm_medium=cpc&utm_campaign=conversion&utm_content=sample-box,google,cpc,conversion,sample-box
+Google Ads | Shopping → Plates,https://chuk.in/products/disposable-plates/?utm_source=google&utm_medium=cpc&utm_campaign=shopping&utm_content=plates,google,cpc,shopping,plates
+QR Code | Packaging → Homepage,https://chuk.in/?utm_source=qr-code&utm_medium=offline&utm_campaign=packaging&utm_content=homepage,qr-code,offline,packaging,homepage
+QR Code | Packaging → Products,https://chuk.in/products/?utm_source=qr-code&utm_medium=offline&utm_campaign=packaging&utm_content=products,qr-code,offline,packaging,products
+QR Code | Event → Sample Box,https://chuk.in/buy-sample-boxes/?utm_source=qr-code&utm_medium=offline&utm_campaign=event&utm_content=sample-box,qr-code,offline,event,sample-box
+QR Code | Distributor Kit → Distributors,https://chuk.in/distributors-2/?utm_source=qr-code&utm_medium=offline&utm_campaign=distributor-kit&utm_content=distributors,qr-code,offline,distributor-kit,distributors
