@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 *.html
 ga4_live_brain/.streamlit/secrets.toml
+.streamlit/secrets.toml
