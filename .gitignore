@@ -1,6 +1,12 @@
 ga4_token.json
+gsc_token.json
 ga4-service-account.json
 ga4_connection_reference.json
+ga4_live_brain/meta_secrets.json
+meta_secrets.json
+ga4_live_brain/platform_secrets.json
+platform_secrets.json
+*.pdf
 __pycache__/
 *.pyc
 *.html
